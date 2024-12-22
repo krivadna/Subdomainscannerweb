@@ -13,7 +13,7 @@ User Interaction: The user interface allows users to input a domain and API key,
 Data Export: The tool provides functionalities to copy results to the clipboard or export them in JSON format.
 
 getyour api key from https://www.virustotal.com/gui/my-apikey a
-to use our web scanner below 👇 
+to use our web scanner 
 https://sub1.kalkikrivadna.com:8080
 
 https://kalkikrivadna.com
