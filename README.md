@@ -1,10 +1,8 @@
 # Cyber Kalki Subdomain Scanner
 
-# Subdomainscannerweb
 Only Free Web comprehensive Subomainscanner with easy access &amp; live status codes. Copy and export results easily. 
 
 # Functionality 
-
 
 Subdomain Discovery: The tool utilizes multiple external APIs and services (like VirusTotal, crt.sh, Certspotter, etc.) to discover subdomains associated with a given domain.
 
