@@ -1,6 +1,6 @@
 # Cyber Kalki Subdomain Scanner
 
-Only Free Web comprehensive Subdomainscanner with easy access & live status codes. Copy and export results easily. 
+Only Free Web comprehensive Subdomain finder with easy access & live status codes. Copy and export results easily. 
 
 # Functionality 
 
