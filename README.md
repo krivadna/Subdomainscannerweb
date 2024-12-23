@@ -1,7 +1,7 @@
 # Cyber Kalki Nexus Subdomain Scanner Pro 🔍
 
 <div align="center">
-  <img src="logo.svg" width="200" height="200" alt="Cyber Kalki Logo">
+  <img src="logo.svg" width="400" height="400" alt="Cyber Kalki Logo">
 </div>
 
 > 🚀 The Ultimate Free Web Subdomain Discovery Tool
