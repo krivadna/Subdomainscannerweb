@@ -8,9 +8,13 @@
 ## ✨ Highlights
 
 • 🎯 **Zero Cost**: Completely free to use  
+
 • 🔄 **Real-time Results**: Instant status codes & validation  
-• 📊 **Multiple Sources**: Integrates VirusTotal, crt.sh, Certspotter  
+
+• 📊 **Multiple Sources**: Integrates VirusTotal, crt.sh, Certspotter and more
+
 • 💾 **Easy Export**: Copy or download as JSON  
+
 • 🌐 **Live Status**: Active domain verification  
 
 ## 🛠️ Features
