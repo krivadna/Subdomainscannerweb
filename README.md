@@ -46,10 +46,11 @@
    - 🔗 [sub1.kalkikrivadna.com:8080](https://sub1.kalkikrivadna.com:8080)
    - 🔗 [kalkikrivadna.com](https://kalkikrivadna.com)
 
+
 ## 📞 Support
 
 💬 Open issue on GitHub  
-📧 Contact maintainers
+
 
 ---
 ⭐ Star us on GitHub if you find this tool useful!
