@@ -1,11 +1,11 @@
-# 🔍 Cyber Kalki Nexus Subdomain Scanner Pro
+# Cyber Kalki Nexus Subdomain Scanner Pro 🔍
 
 > 🚀 The Ultimate Free Web Subdomain Discovery Tool
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cyberkalki.subdomain-scanner)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## ✨ Highlights
+## Highlights ✨
 
 • 🎯 **Zero Cost**: Completely free to use  
 
@@ -17,7 +17,7 @@
 
 • 🌐 **Live Status**: Active domain verification  
 
-## 🛠️ Features
+## Features 🛠️
 
 • 🔍 **Deep Scanning**
   - Multi-API integration
