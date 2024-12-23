@@ -39,7 +39,7 @@
   - JSON format export
   - Easy data transfer
 
-## 🚀 Quick Start
+## Quick Start 🚀
 
 1. 🔑 Get API key: [VirusTotal](https://www.virustotal.com/gui/my-apikey)
 2. 🌐 Access scanner:
@@ -47,10 +47,8 @@
    - 🔗 [kalkikrivadna.com](https://kalkikrivadna.com)
 
 
-## 📞 Support
+## Support 📞
 
 💬 Open issue on GitHub  
 
-
----
 ⭐ Star us on GitHub if you find this tool useful!
