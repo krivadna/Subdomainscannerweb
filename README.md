@@ -47,7 +47,7 @@
 
 1. 🔑 Get API key: [VirusTotal](https://www.virustotal.com/gui/my-apikey)
 2. 🌐 Access scanner:
-   - 🔗 [sub1.kalkikrivadna.com:5050](https://sub1.kalkikrivadna.com:8080)
+   - 🔗 [sub1.kalkikrivadna.com:5050](https://sub1.kalkikrivadna.com:5050)
    - 🔗 [kalkikrivadna.com](https://kalkikrivadna.com)
 
 ## Support 📞
