@@ -49,7 +49,7 @@
 
 ## Quick Start 🚀
 
-1. 🔑 Get API key: [VirusTotal](https://www.virustotal.com/gui/my-apikey)
+1. 🔑 Get Free API key: [VirusTotal](https://www.virustotal.com/gui/my-apikey)
 
 2. 🌐 Access scanner:
 
