@@ -43,10 +43,6 @@
   - JSON format export
   - Easy data transfer
 
-
-   - 🔗 [sub1.kalkikrivadna.com:5050](https://sub1.kalkikrivadna.com:5050)
-   - 🔗 [kalkikrivadna.com](https://kalkikrivadna.com)
-
 ## Quick Start 🚀
 
 1. 🔑 Get Free API key: [VirusTotal](https://www.virustotal.com/gui/my-apikey)
