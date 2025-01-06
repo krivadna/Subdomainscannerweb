@@ -43,12 +43,14 @@
   - JSON format export
   - Easy data transfer
 
+<!-- YouTube Link -->
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/JCmiHVsKTs4?si=iteysigSka--3JKH)
+
 ## Quick Start 🚀
 
 1. 🔑 Get Free API key: [VirusTotal](https://www.virustotal.com/gui/my-apikey)
 
 2. 🌐 Access scanner:
-
    
 [![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sub1.kalkikrivadna.com:5050)
 
