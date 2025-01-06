@@ -52,6 +52,8 @@
 1. 🔑 Get API key: [VirusTotal](https://www.virustotal.com/gui/my-apikey)
 
 2. 🌐 Access scanner:
+
+   
 [![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sub1.kalkikrivadna.com:5050)
 
 
